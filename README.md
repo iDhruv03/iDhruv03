@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN **
 
 - 📫 How to reach me **dhruvvv099@gmail.com**
 
